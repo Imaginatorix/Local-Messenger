@@ -1,0 +1,19 @@
+This is the settings. Please do not edit the lines with "@" in them.
+The first line after the "@ title" declares it, and the 2nd line tells its state.
+<--NULL--> = Empty
+For Mode, you either choose <--SHOW--> or <--DISABLE-->
+P.S. You can resize window if you won't show icon
+<--AUTO--> means that you can only declare it once during the code and will automatically be reused on the 2nd run on the
+program, to change it, write <--MANUAL-->
+
+@ SERVER:
+192.168.1.3
+<--MANUAL-->
+
+@ USERNAME:
+Edward
+<--AUTO-->
+
+@ MODE:
+<--DISABLE-->
+<--AUTO-->
